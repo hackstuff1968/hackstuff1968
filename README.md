@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hackstuff1968
 - 👀 I’m interested in  python coding
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on anything thhat has to do with coding
+- 💞️ I’m looking to collaborate on anything that has to do with coding
 - 📫 How to reach me ...
 
 <!---
